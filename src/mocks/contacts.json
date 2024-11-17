@@ -1,0 +1,17 @@
+[
+    {
+        "link": "https://wa.me/584124245452",
+        "logo": "/icons/whatsapp.svg",
+        "contact": "+58 4124245452"
+    },
+    {
+        "link": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFdLTdzDkxjCzPbpsRhsdnwZCgBbkcxrRGfdFLPNhZVGJVkrTnfVMMPHvZMDxbHvHMlqKh",
+        "logo": "icons/gmail.svg",
+        "contact": "tvjarv8@gmail.com"
+    },
+    {
+        "link" : "https://www.linkedin.com/in/jesus-romero-42a988302/",
+        "logo" : "icons/linkedin.svg",
+        "contact": "Jesus Romero"
+    }
+]
