@@ -1,7 +1,7 @@
 [
     {
         "title": "CeoCam",
-        "description": "CEOCAM permite a los usuarios seleccionar una escuela, grado y sección, capturar una foto y agregar la cédula del estudiante. La cédula puede ser ingresada manualmente o seleccionada de una lista dinámica basada en la escuela, grado y sección. Una vez capturados, estos datos se envían a los servidores de la red C.E.O. de manera segura.",
+        "description": "CEOCAM es una aplicacion movil que permite a los usuarios seleccionar una escuela, grado y sección, capturar una foto y agregar la cédula del estudiante. La cédula puede ser ingresada manualmente o seleccionada de una lista dinámica basada en la escuela, grado y sección. Una vez capturados, estos datos se envían a los servidores de la red C.E.O. de manera segura.",
         "cover": "/images/ceoCam.png",
         "urls": {
 
