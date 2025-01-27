@@ -1,8 +1,16 @@
 [
     {
+        "title": "CeoCam",
+        "description": "CEOCAM permite a los usuarios seleccionar una escuela, grado y sección, capturar una foto y agregar la cédula del estudiante. La cédula puede ser ingresada manualmente o seleccionada de una lista dinámica basada en la escuela, grado y sección. Una vez capturados, estos datos se envían a los servidores de la red C.E.O. de manera segura.",
+        "cover": "../../assets/images/ceoCam.png",
+        "urls": {
+
+        }
+    },
+    {
         "title": "Tetris JS",
         "description": "Revive la nostalgia con esta versión del clásico juego Tetris, creada en JavaScript y utilizando HTML Canvas para el tablero y las piezas.",
-        "cover": "/images/Tetris.png",
+        "cover": "../../assets/images/Tetris.png",
         "urls": {
             "web": "https://creative-pastelito-37c885.netlify.app/",
             "gitHub": "https://github.com/Jarv-cpu/TETRIS"
@@ -11,7 +19,7 @@
     {
         "title": "App de clima",
         "description": "Consulta el clima de cualquier ciudad con esta aplicación construida en React. Utiliza la API de Geocoding para obtener coordenadas y OpenWeatherMap para proporcionar datos meteorológicos precisos",
-        "cover": "/images/climaApp.png",
+        "cover": "../../assets/images/climaApp.png",
         "urls": {
             "web": "https://exquisite-pasca-76512d.netlify.app/",
             "gitHub": "https://github.com/Jarv-cpu/climaApp"
@@ -20,7 +28,7 @@
     {
         "title": "App de lectura",
         "description": "Descubre tu próxima lectura con esta aplicación de libros creada en React. Incluye filtros para ayudarte a encontrar libros según tus preferencias y facilita la exploración de nuevos títulos",
-        "cover": "/images/appDeLectura.png",
+        "cover": "../../assets/images/appDeLectura.png",
         "urls": {
             "web": "https://leafy-profiterole-17b635.netlify.app/",
             "gitHub": "https://github.com/Jarv-cpu/App-de-libros"

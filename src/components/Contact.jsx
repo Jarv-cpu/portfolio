@@ -2,7 +2,7 @@ import contacts from '../mocks/contacts.json'
 
 export function Contact() {
     return (
-        <footer id="Contact" className='bg-slate-950
+        <footer id="Contact" className='bg-black
                                         flex flex-col
                                         items-center
                                         gap-4

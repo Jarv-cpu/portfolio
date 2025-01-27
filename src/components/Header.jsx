@@ -1,13 +1,14 @@
-
 export function Header() {
     return (
-        <header className="w-[99vw] h-[70px] fixed top-0 left-0 flex items-center justify-end pr-6 bg-slate-900 bg-opacity-75 text-[25px] z-[10]
-                           max-sm:text-xs max-sm:pr-0 max-sm:gap-0 max-sm:justify-center">
-            <nav className="flex gap-4">
-                <a href="#About">JESÚS</a>
-                <a href="#Projects">PROYECTOS</a>
-                <a href="#Skills">HABILIDADES</a>
-                <a href="#Contact">CONTACTO</a>
+        <header className="w-full h-[70px] fixed top-0 left-0 flex items-center justify-between px-6 bg-slate-900 bg-opacity-90 text-lg z-10 shadow-md max-sm:text-xs max-sm:pr-4 max-sm:gap-2 max-sm:justify-center">
+            <div className="flex items-center max-sm:hidden">
+                <span className="text-bold text-white">Desarrollador Junior</span>
+            </div>
+            <nav className="flex gap-6">
+                <a href="#About" className="font-bold hover:text-yellow-300 transition duration-300">JESÚS</a>
+                <a href="#Projects" className="font-bold hover:text-yellow-300 transition duration-300">PROYECTOS</a>
+                <a href="#Skills" className="font-bold hover:text-yellow-300 transition duration-300">HABILIDADES</a>
+                <a href="#Contact" className="font-bold hover:text-yellow-300 transition duration-300">CONTACTO</a>
             </nav>
         </header>
     )
