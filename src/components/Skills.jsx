@@ -10,6 +10,7 @@ import angularLogo from '/icons/angular.svg';
 import bootstrapLogo from '/icons/bootstrap.svg';
 import postmanLogo from '/icons/postman.svg';
 import reactNativeLogo from '/icons/react-native.svg';
+import laravelLogo from '/icons/laravel.svg';
 
 import { SkillIcons } from './SkillIcons';
 
@@ -24,7 +25,7 @@ const skillsData = [
     },
     {
         title: 'FRAMEWORKS/LIBRERIAS',
-        icons: [reactLogo, tailwindLogo, angularLogo, bootstrapLogo, reactNativeLogo],
+        icons: [reactLogo, tailwindLogo, angularLogo, bootstrapLogo, reactNativeLogo, laravelLogo],
     },
 ];
 

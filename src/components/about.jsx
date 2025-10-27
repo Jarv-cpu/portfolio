@@ -9,9 +9,10 @@ export function About() {
             <h1 className='text-4xl whitespace-nowrap border-r-4 border-white w-[20ch] overflow-hidden animate-typingBlink max-sm:text-2xl'>
                 Hola, Soy Jesus Romero
             </h1>
-            <h2 className='text-2xl mt-2'>Un Desarrollador Front End Junior</h2>
+
+            <h2 className='text-2xl mt-2'>Un Desarrollador Full Stack Junior</h2>
             <p className='mt-4 text-lg w-[450px] text-center max-sm:w-[250px]'>
-                Tengo 20 años, estudio la carrera de Ing. Informática, me gusta el desarrollo web y aspiro a ser Full Stack
+                Tengo 21 años y me apasiona construir aplicaciones web completas.
             </p>
         </section>
     )
