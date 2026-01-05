@@ -1,10 +1,10 @@
 [
     {
-        "title": "MarPos",
-        "description": "MarPos: Solución de software POS que desarrollé para optimizar operaciones de venta. Sus características principales incluyen: manejo de inventario, procesamiento de ventas (detalladas y al por mayor) y seguimiento de créditos a clientes. La aplicación también genera resúmenes de caja, reportes de ventas y permite la administración de perfiles de cajeros, entre otras funciones",
-        "cover": "/images/Marpos.png",
+        "title": "Control Local",
+        "description": "Es un sistema para el registro y control de ventas e inventariado diseñado para optimizar las operaciones comerciales. Sus funciones principales incluyen la gestión detallada de existencias, el procesamiento de ventas tanto al detal como al por mayor, y un seguimiento estructurado de créditos a clientes. Además, la aplicación facilita la administración de perfiles de usuario para cajeros y genera herramientas de análisis como resúmenes de caja y reportes de ventas, permitiendo un manejo integral de la información del negocio.",
+        "cover": "/images/ControlLocal.png",
         "urls": {
-            "web": "https://marposfront.netlify.app/"
+            "web": "https://controllocal.netlify.app/"
         }
     },
     {
